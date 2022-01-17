@@ -1,7 +1,10 @@
-# Market_Wizars
-Project_2
+# Market_Wizards
 
-### Genesis Model
+---
+
+### The Genesis Model
+
+---
 
 ### Contributors:
 >##### Azaldin Assi, Anjana Chowdiah, Hatem Al-Ghuti 
@@ -29,6 +32,7 @@ Project_2
 All pacakges can be installed using the following code: "Pip install (insert library)"
 Verification of installation can be checked using: "Conda list (insert library)"                  
 
+---
 
 ### License
 MIT
