@@ -24,8 +24,6 @@ Project_2
 >##### Tensorflow Library - It includes implementations of TensorFlow optimizers for training machine learning models with differential privacy
 >##### Sklearn Library- This provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python
 
----
-
 ### Installation Guide
 
 All pacakges can be installed using the following code: "Pip install (insert library)"
@@ -34,3 +32,5 @@ Verification of installation can be checked using: "Conda list (insert library)"
 
 ### License
 MIT
+
+---
