@@ -38,3 +38,7 @@ Verification of installation can be checked using: "Conda list (insert library)"
 MIT
 
 ---
+### Results
+Precious metals such as Copper and Nickel showed a strong positive linear correllation against the growth of consumer staples stocks and ETFs
+The current model will project future prices once data has been split respectively 
+
